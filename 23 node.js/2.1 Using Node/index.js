@@ -1,0 +1,1 @@
+console.log("preuba de uso node.js")
